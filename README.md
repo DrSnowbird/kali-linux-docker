@@ -1,5 +1,5 @@
 # kali-linux-docker
-Kali Linux Docker (rolling version) with additional wrapper to easy to use
+Kali Linux Docker (rolling version) with additional wrapper and command line scripts for easier use.
 
 # Run (recommended for easy-start)
 
