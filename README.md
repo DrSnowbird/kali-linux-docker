@@ -14,6 +14,15 @@ make build
 ./build.sh
 ```
 
+# Quick commands
+* build.sh - build local image.
+* logs.sh - see logs of container.
+* run.sh - run the container.
+* shell.sh - shell into the container.
+* save.sh - save a running Container instance into a tgz file for later to restore.
+* restore.sh - restore the previously archived tgz Container instance ready for running again.
+* stop.sh - stop the container.
+
 # Resources
 * [Kali Linux (Official site)](https://www.kali.org/)
 * [Kali Introduction](https://www.kali.org/docs/introduction/)
